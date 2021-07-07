@@ -1,10 +1,10 @@
 ﻿{
-  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "$schema": "http://json.schemastore.org/launchsettings.json",
   "profiles": {
     "WebAppOrder": {
       "commandName": "Project",
       "launchBrowser": false,
-      "launchUrl": "/api/order",
+      "launchUrl": "api/order",
       "applicationUrl": "http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
